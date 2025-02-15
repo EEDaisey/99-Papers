@@ -11,7 +11,7 @@ Here are some papers other individuals involved in computer science research & s
 * B. Stroustrup. 1988. Parameterized Types for C++.
 
 # Systems
-... ...
+* Dilley. 1998. Globally Distributed Content Delivery.
 
 # Data Science & AI/ML
 * H. Garcia-Molina. 1987. Sagas. SIGMOD Rec. 16, 3 (Dec. 1987), 249–259.
@@ -26,4 +26,3 @@ Here are some papers other individuals involved in computer science research & s
 * M. Baker. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454.  2016.
 * S. Greeland. Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations. 2016.
 * J. Ioannidis. The Proposal to Lower P Value Thresholds to .005. 2018.
-
