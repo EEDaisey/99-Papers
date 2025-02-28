@@ -14,9 +14,6 @@ Here are some papers other individuals involved in computer science research & s
 * Dilley. 1998. Globally Distributed Content Delivery.
 * Facebook. 2013. Scaling Memcache at Facebook.
 
-# High-Performance Computing
-...
-
 # Data Science & AI/ML
 * H. Garcia-Molina. 1987. Sagas.
 * Y. LeCun. 2015. Deep Learning Review Paper.
