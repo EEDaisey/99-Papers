@@ -12,6 +12,7 @@ Here are some papers other individuals involved in computer science research & s
 
 # Systems
 * Dilley. 1998. Globally Distributed Content Delivery.
+* Facebook. 2013. Scaling Memcache at Facebook.
 
 # Data Science & AI/ML
 * H. Garcia-Molina. 1987. Sagas. SIGMOD Rec. 16, 3 (Dec. 1987), 249–259.
