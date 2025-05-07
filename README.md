@@ -16,6 +16,7 @@ Here are some papers other individuals involved in computer science research & s
 
 # Data Science & AI/ML
 * H. Garcia-Molina. 1987. Sagas.
+* E. F. Codd. 1990. The Relational Model for Database Management.
 * Y. LeCun. 2015. Deep Learning Review Paper.
   
 # Modeling & Simulations: PRNG, Monte Carlo Methods
