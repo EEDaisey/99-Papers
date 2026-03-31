@@ -1,4 +1,4 @@
-Here are some papers other individuals involved in computer science research & software development may enjoy!
+Here are some papers that I have enjoyed.  I still have many more to add.  Gradually adding them as I re-read and play with each of them. -EED
 
 # Programming Languages
 * B. Stroustrup. 1978. On Unifying Module Interfaces.
